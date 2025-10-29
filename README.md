@@ -42,5 +42,4 @@ Le rapport de stage est structuré autour des axes suivants :
 
 ## Structure du repository
 - rapport/ : Rapport du stage
-- images/ : Schémas et illustrations utilisés
 - README.md : Présentation générale du stage
